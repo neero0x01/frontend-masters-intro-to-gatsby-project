@@ -2,5 +2,8 @@ node_modules/
 .cache/
 public
 
+# jetbrains IDEs
+.idea
+
 # Local Netlify folder
 .netlify
