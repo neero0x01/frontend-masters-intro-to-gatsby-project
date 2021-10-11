@@ -4,5 +4,6 @@ module.exports = {
     title: 'My Site',
     description: 'Gatsby is awesome!',
     image: 'https://unsplash.com/photos/dYEuFB8KQJk/download?force=true&w=640'
-  }
+  },
+  plugins: ['gatsby-plugin-react-helmet']
 }
